@@ -1,5 +1,3 @@
-#by Squ1reX) если ты это ситаешь, соси хуй
-
 import requests, colorama, random, phonenumbers, random, sys
 from pyshorteners import Shortener
 from colorama import Fore
