@@ -119,5 +119,5 @@ def menu():
             ip_check()
         elif user_input == '3':
             sys.exit()
-
-menu()
+if __name__ == '__main__':
+    menu()
